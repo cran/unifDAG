@@ -1,0 +1,19 @@
+importFrom("gmp", as.bigz, chooseZ, as.bigq)
+importFrom("methods",as)
+importFrom("stats", runif, rbinom)
+
+importFrom("graph",
+           reverseEdgeDirections,
+           edgeRenderInfo, "edgeRenderInfo<-")
+importClassesFrom("graph", graph, graphAM, graphNEL)
+importMethodsFrom("graph",
+		  ## addEdge,
+		  coerce,# as(., ...)
+		  edges, edgeData,
+		  edgeDataDefaults, "edgeDataDefaults<-",
+		  isDirected,
+		  nodes, "nodes<-",
+		  numNodes, numEdges,
+		  subGraph, ugraph)
+
+export(unifDAG, unifDAG.approx)
