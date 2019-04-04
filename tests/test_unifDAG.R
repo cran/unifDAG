@@ -7,6 +7,7 @@ my.wgtMatrix <- function(g, transpose = TRUE) {
 }
 
 ## exact
+suppressWarnings(RNGversion("3.5.0"))
 set.seed(123)
 n <- 2
 reps <- 100

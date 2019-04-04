@@ -1,13 +1,13 @@
-6f9cc86e7175c4e16aa2d9c2a61d7462 *DESCRIPTION
+7e314277ea185524ea69f0d0621993a7 *DESCRIPTION
 109e6579459ade07be9cc8447d93d07e *NAMESPACE
 9187a45035684cf827be71af16325d2c *R/sysdata.rda
 c395f809d039b191c71d7f32e7585b49 *R/unifDAG.R
-e1b5f8e3eef8c4c920610bb19a3ef212 *build/vignette.rds
+f1e939881524ad64dc9fed72a2fb42ba *build/vignette.rds
 a0f8f0508946c97acf08f66efb8834b5 *inst/doc/unifDAG-vignette.R
 3b66f084846c0141b14723beb9612e80 *inst/doc/unifDAG-vignette.Rnw
-bbbf74c3c6addd21cee19b9f160200c8 *inst/doc/unifDAG-vignette.pdf
+dc3cd8655d14986d92d637136bc29280 *inst/doc/unifDAG-vignette.pdf
 ce0f758b82c266f6ced119bf71ef2b5d *man/unifDAG.Rd
-b3eb7f7591288cfb20e1d85e23be64e9 *tests/test_unifDAG.R
+4508658540cad9c35d3ac8df326ab6d5 *tests/test_unifDAG.R
 633fc4a20f1c4b5a7d280762f83a232e *vignettes/auto/unifDAG-vignette.el
 449dcb5b22684b56fe01eb14fde66485 *vignettes/mybib_unifDAG_vignette.bib
 3b66f084846c0141b14723beb9612e80 *vignettes/unifDAG-vignette.Rnw
