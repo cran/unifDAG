@@ -56,7 +56,7 @@ unifDAG.approx(n, n.exact=20, weighted=FALSE, wFUN=list(runif,min=0.1,max=1))
   Jack Kuipers and Giusi Moffa (2015)
   Uniform random generation of large acyclic digraphs.
   \emph{Statistics and Computing} \bold{25(2)}, 227--242, Springer;
-  \url{http://dx.doi.org/10.1007/s11222-013-9428-y}
+  \doi{10.1007/s11222-013-9428-y}
 }
 
 \author{Markus Kalisch (\email{kalisch@stat.math.ethz.ch}) and Manuel Schuerch.}
